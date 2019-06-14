@@ -2,7 +2,7 @@
   "name": "api",
   "version": "1.0.0",
   "description": "This is a study repo to know more about node restfull webservices",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "npm test"
   },
